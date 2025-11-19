@@ -65,12 +65,11 @@ Do the same for Problem2, Problem3, and Problem4.
 
 Folder Structure
 Bandla-Sunitha/
-│
-├── Problem-1.java
-├── Problem-2.java
-├── Problem-3.java
-├── Problem-4.java
-└── README.md
+  Problem1.java
+  Problem2.java
+  Problem3.java
+  Problem4.java
+  README.md
 This repository is created specifically for the Tandemloop Stage-1 Screening Test.
 Thank you for reviewing my work!
 – Bandla Sunitha
